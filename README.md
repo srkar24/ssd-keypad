@@ -5,6 +5,6 @@ This project interfaces a keypad with a Seven Segment Display (SSD) on the Zybo 
 Hardware used: 
 Zybo Z7-10/20, 
 SSD Pmod (https://digilent.com/reference/pmod/pmodssd/start?redirect=1),
-KyPad Pmod (https://digilent.com/reference/pmod/pmodkypd/start?redirect=1)
+KeyPad Pmod (https://digilent.com/reference/pmod/pmodkypd/start?redirect=1)
 
 Software used: Xilinx Vivado
